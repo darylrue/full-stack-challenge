@@ -1,0 +1,1 @@
+docker start full-stack-challenge-db

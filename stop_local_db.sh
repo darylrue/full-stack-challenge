@@ -1,0 +1,1 @@
+docker stop full-stack-challenge-db
